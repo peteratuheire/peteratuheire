@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @peteratuheire
 - 👀 I’m interested in A.I and Cyber security
-- 🌱 I’m currently learning SOFTWARE ENGINEERING (2022-2025)
+- 🌱 I’m a SOFTWARE ENGINEERING graduate from Mbarara University of Science and Technology (2022-2025)
 - 📫 How to reach me: email:peteratuheire34@gmail.com, contact: +256704304855
 
 <!---
